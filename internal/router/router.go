@@ -5,7 +5,6 @@ import (
 	"io"
 	"net/http"
 
-	//"github.com/stawik-mesa/kubernetes-demo/internal/products"
 	"github.com/gorilla/handlers"
 	"github.com/gorilla/mux"
 )

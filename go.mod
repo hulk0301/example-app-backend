@@ -1,4 +1,4 @@
-module github.com/stawik-mesa/kubernetes-demo
+module github.com/hulk0301/example-app-backend
 
 go 1.12
 

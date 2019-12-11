@@ -4,7 +4,7 @@ import (
   "fmt"
   "log"
   "net/http"
-  "github.com/stawik-mesa/kubernetes-demo/internal/router"
+  "github.com/hulk0301/example-app-backend/internal/router"
 )
 
 const port = 8080
