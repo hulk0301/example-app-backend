@@ -9,7 +9,7 @@ import (
 	"github.com/gorilla/mux"
 )
 
-const appVersion = "1.0.0"
+const appVersion = "2.0.0"
 const logoPath = ""
 
 // CORS options
